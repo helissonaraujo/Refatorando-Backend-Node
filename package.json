@@ -1,0 +1,20 @@
+{
+  "name": "refatorando_entrega_s1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "git-ignore": "^0.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "sucrase": "^3.24.0"
+  }
+}
